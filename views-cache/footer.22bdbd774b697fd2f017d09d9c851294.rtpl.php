@@ -74,7 +74,7 @@
             </div>
         </div>
     </div> <!-- End footer bottom area -->
-   
+    
     <!-- Latest jQuery form server -->
     <script src="https://code.jquery.com/jquery.min.js"></script>
     
@@ -93,6 +93,6 @@
     
     <!-- Slider -->
     <script type="text/javascript" src="/res/site/js/bxslider.min.js"></script>
-	<script type="text/javascript" src="/res/site/js/script.slider.js"></script>
-  </body>
+    <script type="text/javascript" src="/res/site/js/script.slider.js"></script>
+</body>
 </html>
